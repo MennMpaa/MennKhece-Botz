@@ -27,32 +27,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/OktaModz'
-global.syt = 'https://youtu.be/ChataOfc-'
-global.sgh = 'https://github.com/ChataOfc'
-global.sgc = 'https://chat.whatsapp.com/JVQ60oSsvJ1CtscEwmtXzk'
-global.swa = 'wa.me/6285731947500'
+global.sig = 'https://instagram.com/mennkhece'
+global.syt = 'https://youtu.be/MennKhece?'
+global.sgh = 'https://github.com/MennMpaa'
+global.sgc = 'https://chat.whatsapp.com/DtbtVxRjaKvElUl7dWJXzz'
+global.swa = 'wa.me/6288298647652'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085731947500'
+global.pdana = '088298647652'
 global.povo = '-'
-global.pgopay = '085731947500'
-global.ppulsa = '085731947500'
-global.ppulsa2 = '085749543572'
-global.psaweria = 'https://saweria.co/oktakc'
+global.pgopay = '088298647652'
+global.ppulsa = '088298647652'
+global.ppulsa2 = '081214040268'
+global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285749543572'
-global.nomorown = '6285731947500'
-global.namebot = 'Nakano Nino'
-global.nameown = 'Okta'
+global.nomorbot = '6281214040268'
+global.nomorown = '6288298647652'
+global.namebot = 'MennKhece Botz'
+global.nameown = 'Sukma'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285731947500', 'Okta', 'true']
+  ['6288298647652', 'Sukma', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -103,16 +103,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Nakano Ninoラ | By Okta' //Main Watermark
-global.wm2 = 'Okta'
-global.wm3 = 'Jangan Lupa Subscribe ChataOfc-'
+global.wm = 'MennKhece Botzラ | By Sukma' //Main Watermark
+global.wm2 = 'Sukma'
+global.wm3 = 'Jangan Lupa Subscribe MennKhece?'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NinoBotzラ | ʙʏ ${global.nameown}`
-global.author = 'Okta' 
-global.packname = 'ChataOfc'
+global.titlebot = `MennBotzラ | ʙʏ ${global.nameown}`
+global.author = 'Sukma' 
+global.packname = 'MennXs'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'November 4 2023'
+global.ultahowner = 'February 5 2023'
 
 
 /*============== LOGO ==============*/
@@ -124,14 +124,14 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Nakano Nino Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Okta* Saya di rilis pada tanggal\n🗓 ️_22/01/2023_'
+global.botintro = 'Hallo, Kenalin saya Menn Botz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *Sukma* Saya di rilis pada tanggal\n🗓 ️_22/01/2023_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Okta'
-global.umurowner = '16'
+global.nameowner = 'Sukma'
+global.umurowner = '13'
 global.asalowner = 'Indonesia'
-global.nomorowner = 'wa.me/6285731947500'
-global.pacarowner = 'Chaca'
+global.nomorowner = 'wa.me/6288298647652'
+global.pacarowner = 'Tifa'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -380,7 +380,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `Okta`
+global.stickauth = `Sukma`
 
 global.multiplier = 38 // The higher, The harder levelup
 
