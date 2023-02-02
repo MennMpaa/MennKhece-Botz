@@ -1,49 +1,49 @@
 <p align="center">
-<img src="https://telegra.ph/file/0590602ca31252f439fa1.jpg" alt="Nakano Nino" width="500"/>
+<img src="https://telegra.ph/file/0590602ca31252f439fa1.jpg" alt="MennKhece" width="500"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="Nakano Nino Multi Device" src="https://img.shields.io/badge/Nino Chan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="MennKhece Multi Device" src="https://img.shields.io/badge/Menn Khece-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/ChataOfc"><img title="Author" src="https://img.shields.io/badge/Author-Okta-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/MennMpaa"><img title="Author" src="https://img.shields.io/badge/Author-Sukma-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/ChataOfc?color=blue&style=flat-square"></a>
+<a href="https://github.com/"><img title="Followers" src="https://img.shields.io/github/followers/MennMpaa?color=blue&style=flat-square"></a>
 <a href="https://github.com/"><img title="Stars" src="https://img.shields.io/github/stars/ChataOfc?color=red&style=flat-square"></a>
-<a href="https://github.com//network/members"><img title="Forks" src="https://img.shields.io/github/forks/ChataOfc/NakanoNino?color=red&style=flat-square"></a>
+<a href="https://github.com//network/members"><img title="Forks" src="https://img.shields.io/github/forks/MennMpaa/MennKhece-Botz?color=red&style=flat-square"></a>
 </P>
 <p align="center">
-  <a href="https://github.com/ChataOfc/NakanoNino#requirements">Requirements</a> •
-  <a href="https://github.com/ChataOfc/NakanoNino#instalasi">Installation</a> •
-  <a href="https://github.com/ChataOfc/NakanoNino#thanks-to">Thanks to</a> •
-  <a href="https://github.com/ChataOfc/NakanoNino#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/MennMpaa/MennKhece-Botz#requirements">Requirements</a> •
+  <a href="https://github.com/MennMpaa/MennKhece-Botz#instalasi">Installation</a> •
+  <a href="https://github.com/MennMpaa/MennKhece-Botz#thanks-to">Thanks to</a> •
+  <a href="https://github.com/MennMpaa/MennKhece-Botz#Official-Group"> Official Group Bot</a> •
   <a href="https://saweria.co/oktakc#donate">Donate</a>
 </p>
 </div>
 ---
 
-# Nakano Nino Whatsapp MD
+# MennKhece Whatsapp MD
 ## For Users Termux Install Module [here](https://github.com/Ilhamskhyzi/node_modules)
 ## Information
-> Nakano Nino whatsapp using a Baileys library.
+> MennKhece whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 >
 > • NOTE: Pastikan Jaringan kalian lancar dan device kalian bagus:v, 
 > 
 > • Kalo pake termux mungkin bakal lama respon nya, saya sarankan pake heroku
 
-<h3 align="center">Made by Okta/h3>
+<h3 align="center">Made by Sukma/h3>
 <p align="center">
-  <a href="https://github.com/ChataOfc"><img src="https://github.com/ChataOfc.png?size=128" height="128" width="128" /></a>
-  <a href="https://github.com/nurutomo"><img src="https://github.com/nurutomo.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/MennMpaa"><img src="https://github.com/MennMpaa.png?size=128" height="128" width="128" /></a>
+  <a href="https://github.com/MennMpaa"><img src="https://github.com/MennMpaa.png?size=128" height="128" width="128" /></a>
 </p>
 
 ## Tester Bot
 * Jika kamu menemukan bug jangan lupa buka Issues
 * Info Lebih Lanjut, Chat [Owner
-NinoBot](https://wa.me/6285731947500)
+MennBotz](https://wa.me/6288298647652)
 
 ## How To Change Menu Display
 ----
@@ -122,7 +122,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install yarn
-git clone https://github.com/ChataOfc/NakanoNino
+git clone https://github.com/MennMpaa/MennKhece-Botz
 cd NakanoNino
 yarn
 node .
@@ -152,8 +152,8 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 ```
 
 # Thanks to
- [![Nurutomo](https://github.com/Nurutomo.png?size=150)](https://github.com/Nurutomo) | [![KingOfBear](https://github.com/saipulanuar.png?size=150)](https://github.com/saipulanuar) | [![Okta](https://github.com/ChataOfc.png?size=150)](https://github.com/ChataOfc)
+ [![MennXs](https://github.com/MennMpaa.png?size=150)](https://github.com/MennMpaa) | [![MennKhece](https://github.com/MennMpaa.png?size=150)](https://github.com/MennMpaa) | [![Menn](https://github.com/MennMpaa.png?size=150)](https://github.com/MennMpaa)
 ----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [KingOfBear](https://github.com/saipulanuar) | [Okta](https://github.com/ChataOfc)
+[MennXs](https://github.com/MennMpaa) | [MennKhece](https://github.com/MennMpaa) | [Menn](https://github.com/MennMpaa)
  Author | yg nambah fitur | yg punya sc
 
